@@ -108,10 +108,9 @@ packages:
   country_pickers:
     dependency: "direct main"
     description:
-      name: country_pickers
-      sha256: a71df4a061b25f07b202a881c43a057edc842a30b3410d511382103c68afebc2
-      url: "https://pub.dev"
-    source: hosted
+      path: "packages/country_pickers"
+      relative: true
+    source: path
     version: "2.0.0"
   cross_file:
     dependency: transitive
