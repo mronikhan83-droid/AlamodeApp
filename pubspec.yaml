@@ -21,8 +21,6 @@ dependencies:
   flutter_svg: ^2.0.9
   flutter_rating_bar: ^4.0.1
   image_picker: ^1.0.4
-  country_pickers:
-    path: packages/country_pickers
   pin_code_fields: ^8.0.1
   responsive_grid_list: ^1.4.0
   carousel_slider_plus: ^7.0.0
@@ -31,7 +29,8 @@ dependencies:
   connectivity_plus: ^5.0.2
   http: ^1.1.2
   shared_preferences: ^2.0.13
-  image_picker: ^1.0.4
+  country_pickers:
+    path: packages/country_pickers
 
   intl: any
 dev_dependencies:
